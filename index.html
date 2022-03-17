@@ -19,16 +19,36 @@
     <p>
       Welcolme to Musical Press. You must press the buttons in the same order as
       shown in order to keep playing and win! ;)
-      <br>
+      <br />
       <button id="startBtn" onclick="startGame()">Start</button>
-      <button id="stopBtn"  class="hidden" onclick="stopGame()">Stop</button>
+      <button id="stopBtn" class="hidden" onclick="stopGame()">Stop</button>
     </p>
 
     <div id="gameButtonArea">
-      <button id="button1"></button>
-      <button id="button2"></button>
-      <button id="button3"></button>
-      <button id="button4"></button>
+      <button
+        id="button1"
+        onmousedown="startTone(1)"
+        onmouseup="stopTone()"
+        onclick="guess(1)"
+      ></button>
+      <button
+        id="button2"
+        onmousedown="startTone(2)"
+        onmouseup="stopTone()"
+        onclick="guess(2)"
+      ></button>
+      <button
+        id="button3"
+        onmousedown="startTone(3)"
+        onmouseup="stopTone()"
+        onclick="guess(3)"
+      ></button>
+      <button
+        id="button4"
+        onmousedown="startTone(4)"
+        onmouseup="stopTone()"
+        onclick="guess(4)"
+      ></button>
     </div>
   </body>
 </html>
