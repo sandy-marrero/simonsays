@@ -47,16 +47,25 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   [YOUR ANSWER HERE]
+
+https://developer.mozilla.org/es/docs/Web/CSS
+
+https://developer.mozilla.org/es/docs/Web/HTML
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   [YOUR ANSWER HERE]
+
+
+One challenge I faced when creating the submission would be the tinkering of the timing. One of the goals was to make the speed of the buttons go up as you progressed and as such there was a point where you must replay the games multiple times in order to find that value that works out for you. This is something I have previously faced in the android development course and is an experience like no other. That moment when you finally find the exact value or place where you want something, the feeling after is something I really like about this career choice. Other than that, I feel like the previous Computer Science courses served as a jump pad to transition to JavaScript and allowed me to create the functionality and following along with what each one did. Another challenge I faced was that I haven’t had much exposure to CSS and HTML, and I wanted to make the best prework I could, adding functionality, buttons, and transitions. I tried to keep the color of the additional buttons consistent. I went and looked for pastel colors and their hex values and applied them as well as shadow when the mouse is on the start button, as I know that apps/webpages should be always consistent and intuitive to the user.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+
+I have many questions as this project has sparked my interest in Web Development, I’m curious as to how to make a functional webpage as the one used by Banking or Shopping companies? This is one of my top questions as I have heard a lot about full stack development and frontend/backend development but have never seen it intertwine in the coding aspect. I look forward to expanding my knowledge in Web Development and am looking forward to when I can make a website like that myself. I also would love in the future to learn more about the different frameworks available such as React, Angular, etc. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+
+If I had a few more hours, I would add the timer functionality that is mentioned in the optional feature as well as when you missed a button, a feature that would replay all the buttons that follow so you can resee where you missed and follow along. I also loved the concept of the original circular game, where it was a circle with each half being a color and would love to replicate that. As I’m new to Web Development I don’t really know if its possible but a feature that the options are pressed with the arrows keys on the keyboard, I feel would make the game more competitive as well as a Best time option. 
+
+
 
 ## Interview Recording URL Link
 
