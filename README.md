@@ -8,6 +8,8 @@ Time spent: **3.5** hours spent in total
 
 Link to project: https://powerful-dynamic-screw-codepathprework.glitch.me/
 
+Or: https://sandy-marrero.github.io/simonsays/
+
 ## Required Functionality
 
 The following **required** functionality is complete:
