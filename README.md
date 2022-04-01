@@ -73,7 +73,7 @@ If I had a few more hours, I would add the timer functionality that is mentioned
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Sandy Marrero Hernandez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
