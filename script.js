@@ -88,7 +88,7 @@ function playClueSequence() {
     setTimeout(playSingleClue, delay, pattern[i]) // set a timeout to play that clue
     delay += clueHoldTime
     delay += cluePauseTime;
-    clueHoldTime *= 0.90;
+    clueHoldTime *= 0.84;
   }
 }
 
