@@ -1,64 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="https://glitch.com/favicon.ico" />
 
-    <title>Hello world!</title>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="https://glitch.com/favicon.ico" />
 
-    <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="style.css" />
+  <title>Hello world!</title>
 
-    <!-- import the webpage's javascript file -->
-    <script src="script.js" defer></script>
-  </head>
-  <body>
-    <!-- this is the start of content -->
-    <h1>Musical Press</h1>
-    <p>
-      Welcolme to Musical Press. You must press the buttons in the same order as
-      shown in order to keep playing and win! ;)
-      <br />
-      <button id="startBtn" onclick="startGame()">Start</button>
-      <button id="stopBtn" class="hidden" onclick="stopGame()">Stop</button>
-    </p>
+  <!-- import the webpage's stylesheet -->
+  <link rel="stylesheet" href="/style.css" />
 
-    <div id="gameButtonArea">
-      <button
-        id="button1"
-        onmousedown="startTone(1)"
-        onmouseup="stopTone()"
-        onclick="guess(1)"
-      ></button>
-      <button
-        id="button2"
-        onmousedown="startTone(2)"
-        onmouseup="stopTone()"
-        onclick="guess(2)"
-      ></button>
-      <button
-        id="button3"
-        onmousedown="startTone(3)"
-        onmouseup="stopTone()"
-        onclick="guess(3)"
-      ></button>
-      <button
-        id="button4"
-        onmousedown="startTone(4)"
-        onmouseup="stopTone()"
-        onclick="guess(4)"
-      ></button>
-      <button id="button5" 
-      onmousedown="startTone(5)" 
-      onmouseup="stopTone()"
-      onclick="guess(5)">
-      </button>
-      <button id="button6" 
-      onmousedown="startTone(6)" 
-      onmouseup="stopTone()"
-      onclick="guess(6)">
-      </button>
-    </div>
-  </body>
+  <!-- import the webpage's javascript file -->
+  <script src="/script.js" defer></script>
+</head>
+
+<body>
+  <!-- this is the start of content -->
+  <h1>Musical Press</h1>
+  <p>
+    Welcolme to Musical Press. You must press the buttons in the same order as
+    shown in order to keep playing and win! ;)
+
+    <br />
+    <button id="startBtn" class="main" onclick="startGame()">Start</button>
+    <button id="stopBtn" class="hidden" onclick="stopGame()">Stop</button>
+  </p>
+
+  <div id="gameButtonArea">
+    <button id="button1" onmousedown="startTone(1)" onmouseup="stopTone()" onclick="guess(1)"></button>
+    <button id="button2" onmousedown="startTone(2)" onmouseup="stopTone()" onclick="guess(2)"></button>
+    <button id="button3" onmousedown="startTone(3)" onmouseup="stopTone()" onclick="guess(3)"></button>
+    <button id="button4" onmousedown="startTone(4)" onmouseup="stopTone()" onclick="guess(4)"></button>
+    <button id="button5" onmousedown="startTone(5)" onmouseup="stopTone()" onclick="guess(5)"></button>
+    <button id="button6" onmousedown="startTone(6)" onmouseup="stopTone()" onclick="guess(6)"></button>
+  </div>
+  <p>Done by Sandy Marrero</p>
+</body>
+
 </html>

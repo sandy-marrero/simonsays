@@ -35,7 +35,28 @@ button {
   padding: 10px;
   border-radius: 10px;
   /*  edit soon  */
+  
 }
+#startBtn{
+  transition: all 0.2s;
+  font-family: sans-serif;
+  width:100px;
+}
+#startBtn:hover{
+  color:#ffffff;
+  background-color:#000000;
+}
+#stopBtn{
+  transition: all 0.2s;
+  font-family: sans-serif;
+  width:100px;
+
+}
+#stopBtn:hover{
+  color:#ffffff;
+  background-color:#000000;
+}
+
 
 #gameButtonArea > button {
   width: 200px;
