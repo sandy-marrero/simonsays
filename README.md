@@ -1,10 +1,10 @@
 # Pre-work - _Musical Press_
 
-**Musical Press** is a Light & Sound Memory game to apply for CodePath's SITE Program.
+**Musical Press** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: **Sandy Marrero Hernandez**
 
-Time spent: **4.5** hours spent in total
+Time spent: **7** hours spent in total
 
 Link to project: https://powerful-dynamic-screw-codepathprework.glitch.me/
 
@@ -25,24 +25,24 @@ The following **required** functionality is complete:
 The following **optional** features are implemented:
 
 - [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-- [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
+- [x] Buttons use a pitch (frequency) other than the ones in the tutorial (There's 2 aditional buttons with diferent pitch)
 - [x] More than 4 functional game buttons
 - [x] Playback speeds up on each turn
 - [x] Computer picks a different pattern each time the game is played
 - [x] Player only loses after 3 mistakes (instead of on the first mistake)
-- [ ] Game button appearance change goes beyond color (e.g. add an image)
+- [x] Game button appearance change goes beyond color (e.g. add an image) (Four primary pieces are styled to resemble the classic Simon Says game)
 - [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 - [ ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
 - [x] Start button transition
+- [x] Stylized headings and paragraphs, different backdrop
+- [x] New figures and shapes for the game buttons
+- [x] Custom webpage icon
 
 ## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://github.com/sandy-marrero/simonsays/blob/main/Prework1.gif)
-![](https://github.com/sandy-marrero/simonsays/blob/main/Prework2.gif)
+![](https://github.com/sandy-marrero/simonsays/blob/main/Prework-preinternship-sandym.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
