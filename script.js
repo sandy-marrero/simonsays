@@ -29,6 +29,7 @@ function stopGame() {
   gamePlaying = false;
   document.getElementById("stopBtn").classList.add("hidden");
   document.getElementById("startBtn").classList.remove("hidden");
+  clueHoldTime = 1000;
 }
 
 
@@ -95,6 +96,7 @@ function playClueSequence() {
 function loseGame() {
   stopGame();
   alert("Game Over. You lost.");
+  clueHoldTime = 1000;
 }
 
 function winGame() {
