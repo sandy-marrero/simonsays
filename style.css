@@ -17,7 +17,7 @@ body {
   margin: 2em;
   font-family: helvetica, arial, sans-serif;
   line-height: 1.5;
-  background-color: #9ADBB3;
+  background-color: #979797;
   color: white;
 }
 
@@ -42,8 +42,8 @@ h1 {
 p {
   color: #f8f8f8;
   font-family: 'Raleway', sans-serif;
-  font-size: 54px;
-  line-height: 54px;
+  font-size: 27px;
+  line-height: 38px;
   font-weight: 500;
   margin: 0 0 24px;
 }
