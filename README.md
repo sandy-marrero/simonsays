@@ -4,7 +4,7 @@
 
 Submitted by: **Sandy Marrero Hernandez**
 
-Time spent: **7** hours spent in total
+Time spent: **7.1** hours spent in total
 
 Link to project: https://powerful-dynamic-screw-codepathprework.glitch.me/
 
