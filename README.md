@@ -1,6 +1,6 @@
 # Pre-work - _Musical Press_
 
-**Musical Press** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Musical Press** is a Light & Sound Memory game to apply for CodePath's SITE & FTL Program. 
 
 Submitted by: **Sandy Marrero Hernandez**
 
