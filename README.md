@@ -67,15 +67,9 @@ I have many questions as this project has sparked my interest in Web Development
 
 If I had a few more hours, I would add the timer functionality that is mentioned in the optional feature as well as when you missed a button, a feature that would replay all the buttons that follow so you can resee where you missed and follow along. I also loved the concept of the original circular game, where it was a circle with each half being a color and would love to replicate that. As I’m new to Web Development I don’t really know if its possible but a feature that the options are pressed with the arrows keys on the keyboard, I feel would make the game more competitive as well as a Best time option. 
 
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://youtu.be/7OuSpRZpeY4)
-
 ## License
 
-    Copyright [Sandy Marrero Hernandez]
+    Copyright [Codepath - Sandy Marrero Hernandez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
